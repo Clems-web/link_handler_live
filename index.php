@@ -8,6 +8,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Hello from pre-prod</p>
+    <p>Hello from dev</p>
 </body>
 </html>
